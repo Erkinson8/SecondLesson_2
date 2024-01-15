@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hello World");
         test(20, 25);
         test(31, 21);
         test(15, -26);
